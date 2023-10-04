@@ -1,0 +1,12 @@
+name: vim
+files:
+- ~/.vimrc
+- ~/.ohmzsh
+---
+name: wezterm
+files:
+- ~/.wezterm.lua
+---
+name: readme
+files:
+- /home/rastler/dev/dotfiles/test.py

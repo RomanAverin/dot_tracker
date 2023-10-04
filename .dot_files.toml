@@ -1,0 +1,3 @@
+[general]
+dotfiles = '~/.dotfiles'
+repo_file = '~/.dotfiles/dotfiles.yaml'
