@@ -1,4 +1,4 @@
-# dot-tracker
+# dot_tracker
 **In development, soon to be available**
 
 The utility is designed for easy management of operating system and application configuration files.
@@ -23,5 +23,5 @@ and create folder for tracked dot files
 
 After that you may track configuration, examle config of zsh:
 
-`dot_tracker add zsh -n zsh -files .zshrc`
+`dot_tracker add zsh -n zsh -files ~/.zshrc`
 
